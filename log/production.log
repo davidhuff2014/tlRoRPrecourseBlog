@@ -1,0 +1,4 @@
+I, [2014-05-30T12:46:14.593026 #9492]  INFO -- : Migrating to CreateArticles (20140530164035)
+I, [2014-05-30T12:57:42.968857 #8208]  INFO -- : Migrating to DropArticlesTable (20140530165119)
+E, [2014-05-30T12:57:42.972858 #8208] ERROR -- : SQLite3::SQLException: no such table: articless: DROP TABLE "articless"
+I, [2014-05-30T12:58:51.487708 #9720]  INFO -- : Migrating to DropArticlesTable (20140530165119)
